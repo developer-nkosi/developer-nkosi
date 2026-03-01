@@ -6,10 +6,12 @@
 Wongani Kasawala Nkosi is a highly motivated and skilled full-stack developer with extensive experience in building scalable applications and solutions. Adept at understanding client requirements, designing and implementing robust architectures, and delivering high-quality code on time. I am still a college student at University of Greenwhich the NCC Education System studying for Honors Degree.
 
 ## Skills
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
 - **Backend:** Node.js, Express, Python
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **Tools & Technologies:** Git, Docker, AWS
+- **Languages:** C#, Python, HTML&CSS, SQL, Javascript
+- **Office Tools:** Microsoft Office
 
 ## Experience 
 
