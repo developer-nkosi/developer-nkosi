@@ -1,8 +1,9 @@
-# Wongani Kasawala Nkosi
+# Hi There
+# My Name is Wongani Kasawala Nkosi
 
 ## Profile 
 
-Wongani Kasawala Nkosi is a highly motivated and skilled full-stack developer with extensive experience in building scalable applications and solutions. Adept at understanding client requirements, designing and implementing robust architectures, and delivering high-quality code on time. I am still a college student at University of Greenwhich the NCC Education System studying for Honrs Degree.
+Wongani Kasawala Nkosi is a highly motivated and skilled full-stack developer with extensive experience in building scalable applications and solutions. Adept at understanding client requirements, designing and implementing robust architectures, and delivering high-quality code on time. I am still a college student at University of Greenwhich the NCC Education System studying for Honors Degree.
 
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript, React
