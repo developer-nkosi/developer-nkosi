@@ -3,18 +3,6 @@
 ## Hi There 👋
 
 My Name is **Wongani Kasawala Nkosi**
-
-### Profile
-
-Wongani Kasawala Nkosi is a highly motivated and skilled full-stack developer with extensive experience in building scalable applications and delivering high-quality solutions.
-
----
-
-## 🌐 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nkosi%20Wongani) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com)
-
 ---
 
 ## 💻 Tech Stack
@@ -49,11 +37,6 @@ Wongani Kasawala Nkosi is a highly motivated and skilled full-stack developer wi
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=developer-nkosi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ### ✍️ Random Dev Quote
 
@@ -61,12 +44,10 @@ Wongani Kasawala Nkosi is a highly motivated and skilled full-stack developer wi
 
 ---
 
-### 🔝 Top Contributed Repo
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=developer-nkosi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Author
 
----
-
-[![Profile Views](https://komarev.com/ghpvc/?username=developer-nkosi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+**Wongani Kasawala Nkosi** (Developer Nkosi)
+- GitHub: [developer-nkosi](https://github.com/developer-nkosi)
+- LinkedIn: [Wongani Nkosi](https://www.linkedin.com/in/wongani-nkosi-36b53b297)
+- Email: eugenenkose@gmail.com
