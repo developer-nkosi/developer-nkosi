@@ -4,11 +4,11 @@ Hi there! My name is **Wongani Kasawala Nkosi**
 
 ## Profile
 
-Wongani Kasawala Nkosi is a highly motivated and skilled full-stack developer with extensive experience in building scalable applications. Passionate about clean code, technology, and continuous le[...]
+I am a highly motivated and skilled full-stack developer with extensive experience in building scalable applications. Passionate about clean code, technology, and continuous
 
 ## 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nkosi.Wongani)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Wongani.Nkosi)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_eugeneo_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wongani-nkosi)
 
